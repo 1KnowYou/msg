@@ -14,7 +14,7 @@
                                                 <div class="media mg-info-author-block"> 
                                                         <a class="mg-author-pic" href="https://kluebers.com/author/1knowyouve3ngashbo46eemisvfcros9se/">  </a>
                                                         <div class="media-body">
-                                                            <h4 class="media-heading"><span>-</span><a href="https://kluebers.com/author/1knowyouve3ngashbo46eemisvfcros9se/"></a></h4>
+                                                            <h4 class="media-heading"><span>💼 You’ll face criminal charges and global exposure</span><a href="https://kluebers.com/author/1knowyouve3ngashbo46eemisvfcros9se/"></a></h4>
                                                             <span class="mg-blog-date"><i class="fas fa-clock"></i> 
                                                                       </span>
                                                         </div>
