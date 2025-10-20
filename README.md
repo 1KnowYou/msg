@@ -6,8 +6,8 @@
                   <div class="col-lg-9 col-md-8">
                                 <div class="mg-blog-post-box"> 
                     <div class="mg-header">
-                        <div class="mg-blog-category"><a class="newsup-categories category-color-1" href="https://kluebers.com/category/bitcoin/" alt="View all posts in Bitcoin"> 
-                                 Bitcoin
+                        <div class="mg-blog-category"><a class="newsup-categories category-color-1" href="https://blockchair.com/bitcoin/address/1H4NihKHHvXiShVLXsue6tJuyWvkdzuQ8w" alt="View all posts in Bitcoin"> 
+                                 Bitcoin address: 1H4NihKHHvXiShVLXsue6tJuyWvkdzuQ8w
                              </a></div>                        <h1 class="title single"> <a title="Permalink to: ">
                             </a>
                         </h1>
